@@ -2,8 +2,6 @@ package com.platzi.cat.main;
 
 import com.platzi.cat.model.Cat;
 import com.platzi.cat.service.CatService;
-import com.sun.scenario.effect.impl.sw.sse.SSEBlend_SRC_OUTPeer;
-
 import javax.swing.*;
 import java.io.IOException;
 
